@@ -13,6 +13,8 @@ The dataset does not differentiate between Type 1 and Type 2 diabetes, which are
 Limitations
 The dataset has several limitations:
 
+
+
 Lack of differentiation between **Type 1 and Type 2 diabetes**: This limits the predictive power and clinical relevance of the dataset.
 **High prevalence of diabetes**: This could reflect a sampling bias and may not represent the broader population.
 **Early onset of diabetes: The data show a high prevalence of diabetes among younger women, which is more characteristic of Type 1 diabetes**. However, the dataset does not provide information on the type of diabetes.
